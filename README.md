@@ -35,6 +35,17 @@
 
 ---
 
+## 🚀 Projetos
+
+| Projeto | O que é |
+|---|---|
+| [**VanRoute**](https://github.com/cauekkz/projeto-integrador) | Transporte escolar: rotas, contratos e a van ao vivo no mapa. Angular + Spring Boot + PostgreSQL |
+| [**fittrack**](https://github.com/henriqueps-dev/fittrack) | App de academia: treinos, cargas por série e evolução. Angular PWA + Spring Boot + PostgreSQL |
+| [**Agenda TEC**](https://github.com/henriqueps-dev/Agenda-tec) | Agendamento de reuniões entre responsáveis de alunos e orientadores das Etecs ([acessar](https://projeto-agenda-tec.vercel.app)). HTML + CSS + JavaScript + Supabase |
+| [**Gravoris**](https://github.com/henriqueps-dev/Gravoris) | Template de projeto em Java |
+
+---
+
 ## 🐍 Minhas contribuições
 
 A cobrinha come os quadradinhos de contribuição do ano. Ela é redesenhada todo dia com os commits mais recentes.
