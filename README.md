@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o henriqueps-dev 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Angular+%2B+TypeScript+no+front;Bancos+SQL+e+NoSQL;Dados+com+Power+BI+e+Excel" alt="Desenvolvedor Full Stack, Angular, bancos de dados e Power BI" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=560&lines=Transformo+ideias+em+sistemas+completos;Do+front+em+Angular+ao+banco+de+dados;Interfaces+bonitas+e+c%C3%B3digo+limpo;Dados+que+viram+decis%C3%B5es+no+Power+BI" alt="Transformo ideias em sistemas completos, do front em Angular ao banco de dados" />
 </p>
 
 ---
@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/NoSQL-2EA44F?style=for-the-badge" alt="NoSQL" />
 </p>
 
-### Dados e Microsoft
+### Análise de dados
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logoColor=black" alt="Power BI" />
