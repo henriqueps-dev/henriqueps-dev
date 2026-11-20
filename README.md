@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 ### Front-end
 
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Projetos
+##  Projetos
 
 | Projeto | O que é |
 |---|---|
@@ -46,7 +46,7 @@
 
 ---
 
-## 🐍 Minhas contribuições
+##  Minhas contribuições
 
 A cobrinha come os quadradinhos de contribuição do ano. Ela é redesenhada todo dia com os commits mais recentes.
 
