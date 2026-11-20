@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o henriqueps-dev 👋</h1>
+<h1 align="center">Bug é só um desafio com outro nome. </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3FB950&center=true&vCenter=true&width=560&lines=Transformo+ideias+em+sistemas+completos;Do+front+em+Angular+ao+banco+de+dados;Interfaces+bonitas+e+c%C3%B3digo+limpo;Dados+que+viram+decis%C3%B5es+no+Power+BI" alt="Transformo ideias em sistemas completos, do front em Angular ao banco de dados" />
